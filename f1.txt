@@ -1,1 +1,2 @@
-SVIT DevOPS Training
+SiVIT DevOPS Training
+added new feature:
